@@ -1,0 +1,8 @@
+[
+  "test_parser.py::test_deep_section_is_detected",
+  "test_parser.py::test_duplicate_heading_has_distinct_nodes",
+  "test_parser.py::test_main_sections_have_no_parent",
+  "test_parser.py::test_out_of_order_sections_are_preserved",
+  "test_versioning.py::test_version_comparison_detects_expected_changes",
+  "test_versioning.py::test_version_comparison_returns_content_hashes"
+]
